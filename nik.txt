@@ -1,4 +1,4 @@
 hello nikhil
 hello agarwal
-hello
-singhal
+<<<<<<< HEAD
+>>>>>>> parent of fbd1edf (add files)
